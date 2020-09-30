@@ -13,7 +13,7 @@ int main()
     return 0;
 }
 
-// function to swap
+// function to swap two variable
 void swap(int* n1, int* n2)
 {
     int temp;
